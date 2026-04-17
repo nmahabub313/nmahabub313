@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nmahabub313
 - 👀 I’m interested in Cats.
 - 🌱 I’m currently learning Robotics and Mechatronics.
-- 💞️ I’m looking to collaborate on Cloud Engineering and Cybersecurity.
 - 📫 Email me at nafisibnmahabub@gmail.com
 - 😄 Pronouns: Meaw/Meaw
 - ⚡ Fun fact: I'm actually a failure.
